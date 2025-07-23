@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Diganta 👋  
+🎓 CSE Student @ BUET | 🧠 Future Machine Learning Engineer
 
-<!--
-**DIGANTA100/DIGANTA100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Skills I'm Learning
+- Programming: C, C++, Python  
+- Tools: Git, GitHub, iGraphics  
+- Concepts: Data Structures, Algorithms, File Handling  
+- Exploring: Machine Learning, GitHub Projects, Git Commands
 
-Here are some ideas to get you started:
+## 🛠️ Projects I'm Working On
+- Space Shooter Game using C++ and iGraphics  
+- NLP System in C (TF-IDF based)  
+- Python basics practice and small automation scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+📧 Email: ajmainfayekdiganta@gmail.com  
+🌐 LinkedIn: 
+
