@@ -14,5 +14,5 @@
 
 ## 📫 Contact Me
 📧 Email: ajmainfayekdiganta@gmail.com  
-🌐 LinkedIn: 
+🌐 LinkedIn: https://www.linkedin.com/in/ajmain-fayek-diganta-43570a377/recent-activity/all/
 
