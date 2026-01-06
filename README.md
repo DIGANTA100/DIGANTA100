@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/DIGANTA100/DIGANTA100/main/assets/night-chill.gif" width="100%" />
 
 ## 📌 About Me
 - 🎓 Computer Science & Engineering student at BUET
